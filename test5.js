@@ -14,3 +14,4 @@ switch(extracted) {
     console.log("この読み方は「ダイレクトエックス」です。");
     break;
 }
+
